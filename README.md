@@ -1,2 +1,2 @@
-# Estudos-Go
+# Estudos git
 Aprendendo e praticando programação Backend com Golang.
