@@ -1,2 +1,2 @@
 # Estudos git
-Aprendendo e praticando programação Backend com Golang... teste
+Aprendendo e praticando programação Backend com Golang... teste.
